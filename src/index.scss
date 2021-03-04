@@ -5,8 +5,8 @@
 * {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
-  -webkit-tap-highlight-color: transparent;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: transparent;
 
   &::after,
   &::before {
@@ -25,6 +25,6 @@ h4,
 h5,
 h6,
 p {
-  margin: 0;
   line-height: 1;
+  margin: 0;
 }
